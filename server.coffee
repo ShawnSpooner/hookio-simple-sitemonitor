@@ -3,7 +3,7 @@ Hook = require('hook.io').Hook
 
 receiver = new Hook
   name: 'server-hook'
-  hooks: ['mailer'];
+  hooks: ['mailer']
   
 siteMonitor = new SiteMon
   name:'site-monitor'
