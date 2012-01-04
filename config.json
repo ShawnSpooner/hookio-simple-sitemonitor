@@ -1,0 +1,14 @@
+{
+  "sites": [
+    {
+      "name": "Test",
+      "url": "http://localhost:9090"
+    }
+  ],
+  "mailer": {
+    "host": "localhost",
+    "username": "foo@bar.com",
+    "password": "1234",
+    "domain": "localhost"
+  }
+}

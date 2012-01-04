@@ -1,0 +1,12 @@
+{
+  "name": "BasicSiteMonitor",
+  "version": "0.0.1",
+  "dependencies": {
+    "hook.io-sitemonitor": "0.2.x"
+   ,"hook.io" : "0.7.x"
+   ,"hook.io-mailer": "0.3.1"
+  },
+  "scripts": {
+    "start": "nodemon server.coffee"
+  }
+}
