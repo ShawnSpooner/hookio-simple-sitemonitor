@@ -1,0 +1,3 @@
+A very simple site monitor based on hookio-sitemonitor and hookio mailer.
+
+Right now to run you must have the patched version of hookio-sitemonitor https://github.com/hookio/sitemonitor/pull/1
